@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("SALUT");
+	printf("SAL vhfxghcghUT");
 	return 0;
 }
